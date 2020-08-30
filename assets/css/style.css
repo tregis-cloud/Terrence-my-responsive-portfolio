@@ -1,0 +1,19 @@
+.navbar-brand h2 {
+  background-color: teal;
+  color: white;
+}
+
+.col-sm-12 p {
+  height: 50px;
+}
+
+.col-sm-8 h1 {
+  color: teal;
+}
+.col-sm-8 {
+  background-color: white;
+}
+
+body {
+  background-color: #d3d3d3;
+}
