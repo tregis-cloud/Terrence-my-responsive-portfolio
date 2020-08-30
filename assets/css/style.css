@@ -34,3 +34,7 @@ body {
 .navbar-nav .current {
   color: black;
 }
+
+img {
+  padding: 20px;
+}
