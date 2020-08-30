@@ -17,3 +17,13 @@
 body {
   background-color: #d3d3d3;
 }
+#footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: gray;
+  color: lightgrey;
+  text-align: center;
+  font-size: 10px;
+}
