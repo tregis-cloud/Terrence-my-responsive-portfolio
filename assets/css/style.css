@@ -32,10 +32,8 @@ body {
 }
 
 /*This is for the pictures on the  portfolio page. */
-.porfolioImage {
+img {
   padding: 10px;
-  width: 350px;
-  height: 350px;
 }
 
 /* This is for the color of the button on the contact page*/
