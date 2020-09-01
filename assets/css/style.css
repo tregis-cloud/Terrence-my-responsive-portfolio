@@ -3,13 +3,11 @@
   color: white;
 }
 
+body {
+  background-image: url("../images/ignasi_pattern_s.png");
+}
 .col-sm-12 p {
   height: 50px;
-}
-.profileImg {
-  float: left;
-  width: 200px;
-  height: 150px;
 }
 
 .col-sm-8 h1 {
@@ -18,10 +16,12 @@
 .col-sm-8 {
   background-color: white;
 }
-
-body {
-  background-image: url("../images/ignasi_pattern_s.png");
+.profileImg {
+  float: left;
+  width: 200px;
+  height: 150px;
 }
+
 #footer {
   position: fixed;
   left: 0;
